@@ -1,0 +1,54 @@
+
+@font-face {
+    font-family: 'Kalame-old';
+    src: url(KalamehWeb-Bold.woff) format('woff'),
+        url(KalamehWeb-Bold.ttf) format('truetype'),
+        url(KalamehWeb-Bold.woff2)format('woff2');
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(DanaFaNum-Medium.woff) format('woff'),
+        url(DanaFaNum-Medium.ttf) format('truetype'),
+        url(DanaFaNum-Medium.woff2) format('woff2'),
+
+}
+
+@font-face {
+    font-family: 'IRY';
+    src: url(IRY.woff2) format('woff2'),
+        url(IRY.woff) format('woff'),
+        url(IRY.ttf) format('truetype'),
+
+}
+
+@font-face {
+    font-family: 'Kalame-bold';
+    src: url(./iranyekanwebmedium.2d4f96e5.eot);
+    src: url(./iranyekanwebmedium.2d4f96e5.eot?#iefix) format('embedded-opentype'),
+         url(./iranyekanwebmedium.2d4f96e5.ttf) format('truetype'),
+         url(./iranyekanwebmedium.2d4f96e5.woff) format('woff'),
+         url(./iranyekanwebmedium.2d4f96e5.woff2) format('woff2');
+  }
+  
+html {
+    scroll-behavior: smooth;
+    letter-spacing: 0px;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: 'Nova Square', sans-serif;height: 1400px;
+}
+*{
+    letter-spacing: 0px; font-family: 'kalame-bold';
+}
+h1 {
+    text-align: center;
+    letter-spacing: 2.5px;
+    margin: 20px 0;
+
+    letter-spacing: -1px;
+}
