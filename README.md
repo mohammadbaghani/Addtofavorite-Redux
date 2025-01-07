@@ -7,6 +7,6 @@
 <br>
 <br/>
 
-Bilingual online-market with redux by me 
+Bilingual online-market with redux
 
 See the live project here https://addtofavorite.liara.run
