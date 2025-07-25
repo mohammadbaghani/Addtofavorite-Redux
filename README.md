@@ -2,7 +2,7 @@
 
 سایت دو زبانه فروشگاهی با ریداکس
 
-لینک پروژه به صورت لایو  https://addtofavorite.liara.run
+لینک پروژه: https://addtofavorite.liara.run
 
 <br>
 <br/>
