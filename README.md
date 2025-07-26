@@ -1,7 +1,7 @@
 
 Bilingual online-market with redux
 
-project Link: https://addtofavorite.liara.run
+project Link : https://addtofavorite.liara.run
 
 سایت دو زبانه فروشگاهی با ریداکس
 
