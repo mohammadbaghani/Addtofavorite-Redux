@@ -10,5 +10,5 @@ project Link : https://addtofavorite.liara.run
 <br>
 <br/>
 
-![alt text](https://github.com/mohammadbaghani/Addtofavorite-Redux/blob/master/Screenshot_2025_01_20-3.png)
+![alt text](https://github.com/mohammadbaghani/Addtofavorite-Redux/blob/master/public/Screenshot_2025_01_20-3.png)
 
