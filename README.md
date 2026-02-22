@@ -3,7 +3,7 @@ Bilingual online-market with redux
 
 project Link : https://addtofavorite.liara.run
 
-سایت دو زبانه فروشگاهی با ریداکس
+سایت دو زبانه فروشگاهی با ریداکس زدم
 
 لینک پروژه: https://addtofavorite.liara.run
 
